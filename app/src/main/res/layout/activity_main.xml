@@ -215,13 +215,13 @@
                         android:text="Tdoay" />
 
                     <TextView
-                        android:id="@+id/textView10"
-                        android:textColor="@color/white"
+                        android:id="@+id/nextBtn"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-
                         android:text="Next 7 day"
-                        android:textStyle="bold"/>
+
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
                 </LinearLayout>
 
             </LinearLayout>
